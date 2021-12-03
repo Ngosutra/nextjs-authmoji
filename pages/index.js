@@ -42,7 +42,7 @@ export default function Home() {
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
        
         <h2 className="mt-6 text-3xl font-extrabold text-center text-gray-900">
-          Verify your mobile number
+          put your number here
         </h2>
       </div>
 
